@@ -13,7 +13,7 @@ public class LangstonTileMap
 		{
 			for (int j = 0 ; j < size ; j++)
 			{
-				tiles[i,j] = false;
+				tiles[i,j] = (i + j) % 2 == 0;
 			}
 		}
 	}

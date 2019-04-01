@@ -188,8 +188,10 @@ MonoBehaviour:
   tileAntRed: {fileID: 11400000, guid: b109103100f1243dbb4ce6781c0c6a32, type: 2}
   tileAntGreen: {fileID: 11400000, guid: 93218ccb0b0594e81a2e0615f35839a8, type: 2}
   tileAntYellow: {fileID: 11400000, guid: 04c68e4c8141d4ca7ac22b9bd135f1ee, type: 2}
+  tileAntPink: {fileID: 11400000, guid: e68e77d0c213b441fb83d5f68c37a766, type: 2}
   sizeMap: 500
-  UpdateTime: 0.0001
+  UpdateTime: 0.1
+  NumbersOfAnts: 10000
 --- !u!4 &686228496
 Transform:
   m_ObjectHideFlags: 0
